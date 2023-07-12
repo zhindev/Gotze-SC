@@ -1,0 +1,33 @@
+{
+    "ownerNumber": ["6285211230074@s.whatsapp.net","6285717218492@s.whatsapp.net","62895365357864@s.whatsapp.net","62895331258802@s.whatsapp.net","6285346907348@s.whatsapp.net"],
+    "ownerName": "Phobia`Team",
+    "instagram" : "https://instagram.com/zhinxd_",
+    "gcwa" : "https://chat.whatsapp.com/HTnGzC3qogRI3Hka64eWYo",
+    "botName": "𝐆oʇzꫀ-MD✰",
+    "footer": "2023 © api.zhindev.xyz",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "https://api.zahwazein.xyz",
+    "OpenAIKey": "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",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_ai_japri": false,
+    "auto_ai_grup": false,
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true, 
+    "antiViewOnce": true,
+    "grupOnly": false,
+    "japriOnly": false, 
+    "antiDelete": false,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 35,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
